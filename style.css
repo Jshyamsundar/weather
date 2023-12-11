@@ -9,8 +9,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: lightslategrey;
+    background-color: darksalmon;
     min-height: 100vh;
+    /* background: url(images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
     overflow: hidden;
 }
 
